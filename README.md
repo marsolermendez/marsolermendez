@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-I'm Mar, a data analysis enthusiast and a student of **Big Data and Cloud Environments** at EDEM in Valencia.
+I'm Mar, a data analysis enthusiast and a student of **Big Data and Cloud Environments** at EDEM in València.
 
 ### 🌱 What am I currently learning?
 

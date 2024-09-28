@@ -7,7 +7,7 @@ I'm Mar, a data analysis enthusiast and a student of **Big Data and Cloud Enviro
 Right now, I'm diving into Unix 🐧, Python 🐍, and SQL 📊.
 
 ### 💼 Recent projects
-*To be developed*
+Currently, I'm working as a Marketing Data Analyst for [TCCC](https://www.coca-cola.com) and [Repsol](https://www.repsol.es), focusing on improving their campaign performance.
 
 ### 🏁 Upcoming challenges
 

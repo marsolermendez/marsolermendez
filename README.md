@@ -13,7 +13,7 @@ Currently, I'm working as a Marketing Data Analyst for [TCCC](https://www.coca-c
 
 My goals for the next few months:
 - [x] Start my first projects on GitHub
-- [ ] Write my first Python script
+- [x] Write my first Python script
 - [ ] Design my first ETL process
 - [ ] Create my first on-premise architecture
 
